@@ -27,7 +27,7 @@
   <DefaultSettings>
     <SourceLocation DefaultValue="https://meganreinard11.github.io/Content-AddIn/content/content.html" />
     <RequestedWidth>1000</RequestedWidth>
-    <RequestedHeight>800</RequestedHeight>
+    <RequestedHeight>560</RequestedHeight>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
