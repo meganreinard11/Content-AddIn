@@ -1,5 +1,3 @@
-import "./content.css";
-
 (function () {
     "use strict";
 
