@@ -16,6 +16,7 @@
                     }
                 } catch (e) {
                     // Handle MessageBanner errors silently.
+                    console.error("Error Office.onReady:", error);
                 }
             }
             
